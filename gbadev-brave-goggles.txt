@@ -4,7 +4,7 @@
 ! author: tolik518
 ! license: MIT
 ! homepage: https://github.com/tolik518/gbadev-brave-goggles
-! avatar: #39214a
+! avatar: #5d2783
 
 ! Generic GBA boosting
 *gba*$boost,site=github.com
@@ -36,6 +36,7 @@ $boost=1,site=ycombinator.com
 $boost=1,site=hacker-news.news
 
 ! Reddit
+$discard,site=reddit.com
 /r/Gameboy/$boost=1,site=reddit.com
 /r/gba/$boost=1,site=reddit.com
 /r/GameboyAdvance/$boost=1,site=reddit.com
@@ -255,7 +256,10 @@ $discard,site=pythonrepo.com
 $discard,site=reposhub.com
 $discard,site=wenyanet.com
 
-! Other websites that interfere (mostly with butano)
+! Other websites that interfere
+
+! We don't want anything that has to do with
+! bikes or butane-gas when searching for butano
 $discard,site=rosebikes.de
 $discard,site=bike24.de
 $discard,site=bike-components.de
@@ -405,5 +409,9 @@ $discard,site=canalextremadura.es
 $discard,site=lne.es
 $discard,site=infocif.economia3.com
 $discard,site=lavozdegalicia.es
-
 *Butan*$discard,site=wikipedia.org
+
+! Filter out "Greater Bay Area" in Hong Kong, when searching for GBA
+$discard,site=www2.deloitte.com
+$discard,site=bayarea.gov.hk
+$discard,site=kwm.com
