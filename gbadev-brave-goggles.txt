@@ -261,7 +261,7 @@ $discard,site=wenyanet.com
 
 ! We don't want anything that has to do with
 ! bikes or butane-gas when searching for butano
-$downrank=3,site=es
+$downrank=2,site=es
 $discard,site=rosebikes.de
 $discard,site=bike24.de
 $discard,site=bike-components.de
