@@ -12,6 +12,7 @@
 
 ! Well known sites from the gba dev community
 $boost=4,site=gvaliente.github.io
+$boost=4,site=gbadev-org.github.io
 $boost=4,site=natu.exelo.tl
 $boost=4,site=gbadev.org
 $boost=4,site=forum.gbadev.net
@@ -51,6 +52,9 @@ $discard,site=reddit.com
 /r/learnprogramming/$boost=1,site=reddit.com
 /r/cprogramming/$boost=1,site=reddit.com
 /r/Assembly_language/$boost=1,site=reddit.com
+/r/nim/$boost=1,site=reddit.com
+/r/RedditEng/$boost=1,site=reddit.com
+
 
 ! Other useful sites and articles
 /writings/consoles/game-boy-advance/$boost=3,site=copetti.org
