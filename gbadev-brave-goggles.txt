@@ -356,6 +356,10 @@ $discard,site=chimicamo.org
 $discard,site=pangas.ch
 $discard,site=siad.com
 $discard,site=ilo.org
-
+$discard,site=sapere.it
+$discard,site=friulanagas.it
+$discard,site=infocif.economia3.com
+$discard,site=20minutos.es
+$discard,site=elperiodicoextremadura.com
 
 *Butan*$discard,site=wikipedia.org
