@@ -383,5 +383,13 @@ $discard,site=informacion.es
 $discard,site=funnatic.es
 $discard,site=elespanol.com
 $discard,site=laopiniondemalaga.es
+$discard,site=advntr.cc
+$discard,site=wiggle.co.uk
+$discard,site=rosebikes.com
+$discard,site=eldigitaldealbacete.com
+$discard,site=canalextremadura.es
+$discard,site=lne.es
+$discard,site=infocif.economia3.com
+$discard,site=lavozdegalicia.es
 
 *Butan*$discard,site=wikipedia.org
