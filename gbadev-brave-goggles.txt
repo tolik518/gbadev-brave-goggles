@@ -4,11 +4,13 @@
 ! author: tolik518
 ! license: MIT
 ! homepage: https://github.com/tolik518/gbadev-brave-goggles
+! avatar: #39214a
 
-! Generic boosting
+! Generic GBA boosting
 *gba*$boost,site=github.com
 *gba*$boost,site=stackoverflow.com
 
+! Well known sites from the gba dev community
 $boost=4,site=gvaliente.github.io
 $boost=4,site=gbadev.org
 $boost=4,site=forum.gbadev.net
@@ -27,15 +29,27 @@ $boost=2,site=gamebrew.org
 $boost=1,site=stackoverflow.com
 $boost=1,site=github.io
 $boost=1,site=github.com
-$boost=1,site=reddit.com
 $boost=1,site=dev.to
 $boost=1,site=gbatemp.net
 $boost=1,site=rentry.org
 $boost=1,site=ycombinator.com
 $boost=1,site=hacker-news.news
 
+! Reddit
+/r/Gameboy/$boost=1,site=reddit.com
+/r/gba/$boost=1,site=reddit.com
+/r/GameboyAdvance/$boost=1,site=reddit.com
+/r/cpp/$boost=1,site=reddit.com
+/r/gamedev/$boost=1,site=reddit.com
+/r/programming/$boost=1,site=reddit.com
+/r/gba/$boost=1,site=reddit.com
+/r/EmuDev/$boost=1,site=reddit.com
+/r/C_Programming/$boost=1,site=reddit.com
+/r/learnprogramming/$boost=1,site=reddit.com
+/r/cprogramming/$boost=1,site=reddit.com
+/r/Assembly_language/$boost=1,site=reddit.com
 
-
+! Other useful sites and articles
 /writings/consoles/game-boy-advance/$boost=3,site=copetti.org
 /ham/$boost=2,site=aaronrogers.com
 /category/Game%20Boy%20Advance^$boost=3,site=jamiedstewart.github.io
