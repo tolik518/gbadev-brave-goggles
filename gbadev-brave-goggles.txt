@@ -12,6 +12,7 @@
 
 ! Well known sites from the gba dev community
 $boost=4,site=gvaliente.github.io
+$boost=4,site=natu.exelo.tl
 $boost=4,site=gbadev.org
 $boost=4,site=forum.gbadev.net
 $boost=4,site=gbadev.net
