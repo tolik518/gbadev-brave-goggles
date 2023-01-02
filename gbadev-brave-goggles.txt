@@ -312,4 +312,4 @@ $discard,site=sport.es
 $discard,site=cronista.com
 $discard,site=lamansiondelasideas.com
 $discard,site=clavelgas.es
-/wiki/Butano$discard,site=es.wikipedia.org
+/wiki/Butano/$discard,site=es.wikipedia.org
