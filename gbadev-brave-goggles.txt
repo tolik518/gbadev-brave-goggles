@@ -302,3 +302,4 @@ $discard,site=capitalfederal-gba.olx.com.ar
 $discard,site=nationalgeographic.com.es
 $discard,site=lasociedadgeografica.com
 $discard,site=elpais.com
+/wiki/Butano^$discard,site=es.wikipedia.org
