@@ -261,6 +261,7 @@ $discard,site=wenyanet.com
 
 ! We don't want anything that has to do with
 ! bikes or butane-gas when searching for butano
+$downrank=3,site=es
 $discard,site=rosebikes.de
 $discard,site=bike24.de
 $discard,site=bike-components.de
@@ -409,7 +410,24 @@ $discard,site=eldigitaldealbacete.com
 $discard,site=canalextremadura.es
 $discard,site=lne.es
 $discard,site=infocif.economia3.com
+$discard,site=paxinasgalegas.es
+$discard,site=butanoycarbonicas.es
+$discard,site=distribuciondegasnevasa.es
+$discard,site=rtve.es
+$discard,site=noticiasdealava.eus
 $discard,site=lavozdegalicia.es
+$discard,site=cmmedia.es
+$discard,site=noticiastrabajo.es
+$discard,site=murcia.com
+$discard,site=diariovasco.com
+$discard,site=ondacero.es
+$discard,site=niusdiario.es
+$discard,site=xatakahome.com
+$discard,site=civio.es
+$discard,site=diariosur.es
+$discard,site=elcomercio.es
+$discard,site=europapress.es
+
 *Butan*$discard,site=wikipedia.org
 
 ! Filter out "Greater Bay Area" in Hong Kong, when searching for GBA
