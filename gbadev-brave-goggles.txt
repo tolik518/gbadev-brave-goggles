@@ -22,13 +22,19 @@ $boost=2,site=belogic.com
 $boost=2,site=maxmod.devkitpro.org
 $boost=2,site=mgba.io
 $boost=2,site=flashcartdb.com
+$boost=2,site=gamebrew.org
 
 $boost=1,site=stackoverflow.com
 $boost=1,site=github.io
+$boost=1,site=github.com
 $boost=1,site=reddit.com
 $boost=1,site=dev.to
 $boost=1,site=gbatemp.net
 $boost=1,site=rentry.org
+$boost=1,site=ycombinator.com
+$boost=1,site=hacker-news.news
+
+
 
 /writings/consoles/game-boy-advance/$boost=3,site=copetti.org
 /ham/$boost=2,site=aaronrogers.com
@@ -277,4 +283,22 @@ $discard,site=eleconomista.es
 $discard,site=lavanguardia.com
 $discard,site=laverdad.es
 $discard,site=ideal.es
+$discard,site=helloauto.com
+$discard,site=tr-ex.me
+$discard,site=ocu.org
+$discard,site=as.com
+$discard,site=climaortiz.com
+$discard,site=arbupes.com
 $discard,site=lasprovincias.es
+$discard,site=europa.eu
+$discard,site=pubchem.ncbi.nlm.nih.gov
+$discard,site=socratic.org
+$discard,site=datosmacro.expansion.com
+$discard,site=elrincondesele.com
+$discard,site=mundo-nomada.com
+$discard,site=gba.gov.ar
+$discard,site=viajeselcorteingles.es
+$discard,site=capitalfederal-gba.olx.com.ar
+$discard,site=nationalgeographic.com.es
+$discard,site=lasociedadgeografica.com
+$discard,site=elpais.com
