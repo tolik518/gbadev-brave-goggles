@@ -10,10 +10,14 @@
 *gba*$boost,site=github.com
 *gba*$boost,site=stackoverflow.com
 
-! Well known sites from the gba dev community
-$boost=4,site=gvaliente.github.io
+! Well known sites from the gba dev community and docs
 $boost=4,site=gbadev-org.github.io
 $boost=4,site=natu.exelo.tl
+$boost=4,site=gvaliente.github.io
+/gba/latest/gba/$boost=4,site=docs.rs
+/agb/latest/agb/$boost=4,site=docs.rs
+/forum-archive/$boost=4,site=gbadev.net
+$boost=4,site=agbrs.dev
 $boost=4,site=gbadev.org
 $boost=4,site=forum.gbadev.net
 $boost=4,site=gbadev.net
@@ -27,6 +31,8 @@ $boost=2,site=maxmod.devkitpro.org
 $boost=2,site=mgba.io
 $boost=2,site=flashcartdb.com
 $boost=2,site=gamebrew.org
+$boost=2,site=www.cs.rit.edu
+$boost=2,site=pineight.com
 
 $boost=1,site=hackaday.com
 $boost=1,site=stackoverflow.com
